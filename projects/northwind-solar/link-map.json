@@ -1,0 +1,28 @@
+{
+  "base_url": "https://www.northwind-solar.example",
+  "homepage": {
+    "url": "https://www.northwind-solar.example/",
+    "anchors": ["solar panel installation in Bristol", "Northwind Solar"]
+  },
+  "service_pages": [
+    { "topic": "Home solar panel installation", "url": "https://www.northwind-solar.example/services/solar-panel-installation", "anchor": "solar panel installation" },
+    { "topic": "Home battery storage", "url": "https://www.northwind-solar.example/services/battery-storage", "anchor": "battery storage" },
+    { "topic": "EV charger installation", "url": "https://www.northwind-solar.example/services/ev-charger-installation", "anchor": "EV charger installation" },
+    { "topic": "Commercial rooftop solar", "url": "https://www.northwind-solar.example/services/commercial-solar", "anchor": "commercial rooftop solar" },
+    { "topic": "Annual solar health check", "url": "https://www.northwind-solar.example/services/solar-health-check", "anchor": "annual solar health check" }
+  ],
+  "case_studies": [
+    { "topic": "East-west roof, 12 panels, one-day install", "url": "https://www.northwind-solar.example/case-studies/east-west-roof-bishopston", "anchor": "our east-west roof case study" },
+    { "topic": "Farm, 96 panels, 30 kWh battery bank", "url": "https://www.northwind-solar.example/case-studies/chew-valley-dairy-farm", "anchor": "our Chew Valley farm case study" }
+  ],
+  "blog_posts": [
+    { "topic": "How many solar panels a home needs", "url": "https://www.northwind-solar.example/blog/how-many-solar-panels-do-i-need", "anchor": "how many solar panels you need" },
+    { "topic": "Is a home battery worth it", "url": "https://www.northwind-solar.example/blog/is-a-home-battery-worth-it", "anchor": "whether a home battery is worth it" },
+    { "topic": "Solar panels on east-west roofs", "url": "https://www.northwind-solar.example/blog/east-west-roof-solar", "anchor": "solar on east-west roofs" }
+  ],
+  "conversion": [
+    { "topic": "Book a free roof survey", "url": "https://www.northwind-solar.example/book-a-survey", "anchor": "book a free roof survey" },
+    { "topic": "Contact us", "url": "https://www.northwind-solar.example/contact", "anchor": "contact our team" }
+  ],
+  "approved_external_domains": ["gov.uk", "ofgem.gov.uk", "mcscertified.com", "energysavingtrust.org.uk", "iso.org"]
+}

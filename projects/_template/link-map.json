@@ -1,0 +1,21 @@
+{
+  "_help": "The pages a post may link to. Every URL must be a live page on your site. The workflow also reads your sitemap, so any page in it is allowed; the ones listed here are preferred and get descriptive anchors. This _help key is ignored.",
+  "base_url": "https://www.your-domain.example",
+  "homepage": {
+    "url": "https://www.your-domain.example/",
+    "anchors": ["your main service in your city", "your brand name"]
+  },
+  "service_pages": [
+    { "topic": "What the page is about, in a few words", "url": "https://www.your-domain.example/services/example-service", "anchor": "example service" }
+  ],
+  "case_studies": [
+    { "topic": "What the case study shows (kit, size, sector)", "url": "https://www.your-domain.example/case-studies/example-client", "anchor": "our example client case study" }
+  ],
+  "blog_posts": [
+    { "topic": "What the post answers", "url": "https://www.your-domain.example/blog/example-guide", "anchor": "our guide to the example topic" }
+  ],
+  "conversion": [
+    { "topic": "Request a quote", "url": "https://www.your-domain.example/contact", "anchor": "request a quote" }
+  ],
+  "approved_external_domains": ["gov.uk", "iso.org"]
+}
